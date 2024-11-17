@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![OUTPUT](https://github.com/user-attachments/assets/b2ede857-7c17-4b26-bc0a-cca348d490dd)
+![image](https://github.com/user-attachments/assets/79db5369-069d-4791-897e-3ad083b9aea5)
 
 
 ### Name: Sabari Akash A
